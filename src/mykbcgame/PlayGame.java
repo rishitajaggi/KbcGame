@@ -35,6 +35,7 @@ public class PlayGame extends javax.swing.JFrame {
     
     ResultSet rs;
     
+    
     boolean doubletip = false;
 
     PlayGame(String email) {
